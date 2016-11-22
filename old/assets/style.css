@@ -1,0 +1,28 @@
+#versions {
+  margin-left: 10px;
+}
+
+#teaching {
+  margin-top: 5%;
+}
+
+#webspaces {
+  position: absolute;
+  bottom: 20px;
+}
+
+.icon {
+  width: 35px;
+  height: 35px;
+  margin-left: 15px;
+}
+
+#gatekeeper {
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+	cursor: default;
+}
+
+/* { border: 1px solid #000; }
+	
