@@ -2,8 +2,17 @@
 	"resources": [
 		{
 			"name": "VimAwesome",
-			"category": "vim",
+			"tags": ["vim", "plugins"],
 			"url": "http://vimawesome.com/"
+		},
+		{
+			"name": "Hipster Ipsum",
+			"tags": ["dummy text", "filler", "generators"],
+			"url": "https://hipsum.co/"
+		},
+		{
+			"name": "Contributor Code of Conduct",
+			"tags": ["code of conduct", "contributor", "contributions", "collaboration", "convenant", "project maintenance"]
 		}
 	]
 }
